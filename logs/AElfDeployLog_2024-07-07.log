@@ -1,0 +1,5 @@
+2024-07-07 16:03:42,820 [1] INFO  AElfChain.Common.Managers.NodeManager - Url:https://tdvw-test-node.aelf.io/ is connected!
+2024-07-07 16:03:42,991 [1] INFO  AElfChain.Common.Managers.AccountManager - Account 'png2BDk69tFmfssNDudJcDLSkGqU18GXRFU66zCGTetAmpszm' successfully unlocked!
+2024-07-07 16:03:43,380 [1] INFO  AElfChain.Common.Contracts.GenesisContract - Token contract address: ASh2Wt7nSEmYqnGxPPzp4pnVDU4uhj1XW9Se5VeZcX2UDdyjx
+2024-07-07 16:03:43,562 [1] INFO  AElfChain.Common.Contracts.GenesisContract - Consensus contract address: 2KPUA5wG78nnNmK9JsRWbFiEFUEfei9WKniZuKaVziDKZRwchM
+2024-07-07 16:03:43,734 [1] INFO  AElfChain.Common.Contracts.GenesisContract - Parliament contract address: vcv1qewcsFN2tVWqLuu7DJ5wVFA8YEx5FFgCQBb1jMCbAQHxV
